@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBoss", "IBoss\IBoss.csproj", "{1ED39B79-F56C-4506-A340-AD71F3F2783A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ED39B79-F56C-4506-A340-AD71F3F2783A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED39B79-F56C-4506-A340-AD71F3F2783A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED39B79-F56C-4506-A340-AD71F3F2783A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED39B79-F56C-4506-A340-AD71F3F2783A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93532BE-F6E9-4BBB-A9E1-E77DE0E35D68}
+	EndGlobalSection
+EndGlobal
